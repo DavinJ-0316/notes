@@ -34,3 +34,7 @@
           Mobile 320px width phone: 10kb image
           Convert Image from jpg/png to webP, jpeg xr, jpeg 2000
           ![image](https://user-images.githubusercontent.com/58126838/136468025-b6ad5f59-80d0-4ba6-a5ee-462e81aa13f5.png)
+          
+          
+          
+          https://css-tricks.com/snippets/html/glyphs/
